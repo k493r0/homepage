@@ -2,3 +2,6 @@ title: Yuki Kume
 
 sass:
   style: :compressed
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Yuki Kume is an unqualified security software engineer/researcher 
