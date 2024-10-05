@@ -8,7 +8,7 @@ layout: default
 
 I'm a Computer Science Advanced (Honours)© student at Monash University.
 
-I am a mix breed of these things, some of which I've been doing for a decade now:
+I am a mixed-breed of these things, some of which I've been doing for a decade now:
 - Software engineering - specifically in systems and network programming (Lost interest in web development, probably because I mostly did PHP)
 - Security engineering - anywhere from tooling, code review to penetration testing 
 - Infrastructure and systems engineering - automate boring things to focus on the fun and important things; immutable infrastructure all the way
