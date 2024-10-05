@@ -41,4 +41,4 @@ Thought my website is a bit too simple?
 
 Well, you were able to read this far into the website, what the hell else do you want? It probably loaded quite fast as well.
 
-Taking the approach of [the best website in the world](https://motherfuckingwebsite.com) and not writing a over-engineered-framework-heavy-react-redux-webpack-tailwind-css-infinite-npm-dependencies-vue-angular-nextjs-50mb-parallax-ative hompage.
+Taking the approach of [the best website in the world](https://motherfuckingwebsite.com) and not writing an over-engineered-framework-heavy-react-redux-webpack-tailwind-css-infinite-npm-dependencies-vue-angular-nextjs-50mb-parallax-ative hompage.
