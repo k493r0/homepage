@@ -13,7 +13,7 @@ I am a mixed-breed of these things, some of which I've been doing for a decade n
 - Security engineering - anywhere from tooling, code review to penetration testing 
 - Infrastructure and systems engineering - automate boring things to focus on the fun and important things; immutable infrastructure all the way
 - Security research - anyting !windows. Yet to obtain a CVE, but I'm working on it
-- Academic research - in security in privacy, designing and implementing secure network protocols using cryptographic primitives
+- Academic research - in security and privacy, designing and implementing secure network protocols using cryptographic primitives
 
 I used to homelab with Dell Poweredge R730 and R620, but ended up donating them to my university's cybersecurity club [MonSec](https://monsec.io).
 
