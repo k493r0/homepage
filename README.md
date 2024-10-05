@@ -33,6 +33,8 @@ To be added (last update October 2024, how long did I leave this empty for?)
 
 Search my name up on LinkedIn, you'll find me. I'm not hard to find.
 
+---
+
 ## Epilogue
 
 Thought my website is a bit too simple?
