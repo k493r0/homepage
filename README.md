@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi, I'm Yuki
+# Hi, I'm Yuki Kume
 
 ## About me
 
